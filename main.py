@@ -4,7 +4,6 @@ import json
 import bs4
 from bs4 import BeautifulSoup
 import requests
-from lxml import html
 import re
 import threading
 import math
